@@ -1,0 +1,2 @@
+/open https://github.com/sormuras/restore/raw/main/restore.java
+/exit restore.main(System.out, System.err /*, args*/)
